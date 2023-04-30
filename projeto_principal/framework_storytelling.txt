@@ -1,0 +1,7 @@
+1 - investidores anjo 
+2 - power point/streamlit
+3 - introdução sucinta sobre derivativos e nosso público alvo
+4 - Premissas de negócio
+5 - dashboard 
+6 - resultados do modelo forecasting/analise serie temporal
+7 - Posso operar com maior assertividade 

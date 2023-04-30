@@ -1,0 +1,34 @@
+Datas: 
+31/08 Entrega do ETL (entrega oficial)
+07/09 Fechar aplicações do problema para entrega final 
+14/09 Validação dos modelos
+21/09 Streamlit/Docker 
+28/09 Revisão final e demais ajustes
+04/09 Apresentação demoday I
+06/06 Apresentação demoday II
+
+
+Roadmap: 
+
+- Monte Carlo para probabilidade de cenários
+- Candlesticker para dolar
+- Tipo de derivativos/Prêmio de risco/Black Scholes (pincelar)
+- VaR
+- Liquidez
+- Volatilidade (implícita)
+- Agrupar (clusterização)
+- Artigo do Medium 
+- ADAboot/XGBoost para feature selection 
+- Arimax/Sarimax
+- Matriz de correlação para carteira
+- Aplicação/arquitetura/Docker
+- Streamlit/Dataviz/ppt
+
+1 3
+2 4
+
+1 2
+3 4
+
+- Contar numero de operações e volume. 
+ 
